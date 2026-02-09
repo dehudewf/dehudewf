@@ -20,17 +20,17 @@
 
 > 🧠 Passionate about **AI / Deep Learning / Computer Vision**
 
-- `<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" />` &nbsp; I'm currently working on **Kaggle Competitions** & **AI Research**
-- `<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />`&nbsp;&nbsp;&nbsp; I like exploring **Deep Learning Frameworks** — PyTorch & MindSpore
-- `<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />`&nbsp;&nbsp; Ask me about **AI, C++, Kaggle, or anything tech**
-- `<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />` &nbsp; Reach me at: **[GitHub Discussions](https://github.com/dehudewf)**
-- &nbsp;`<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />`&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: **Neural networks were inspired by the biological brain, yet nobody fully understands either** 🧠
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" /> &nbsp; I'm currently working on **Kaggle Competitions** & **AI Research**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **Deep Learning Frameworks** — PyTorch & MindSpore
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **AI, C++, Kaggle, or anything tech**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach me at: **[GitHub Discussions](https://github.com/dehudewf)**
+- &nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: **Neural networks were inspired by the biological brain, yet nobody fully understands either** 🧠
 
 <br>
 
 <hr>
 
-## `<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" />` &nbsp; Tech Stack & Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> &nbsp; Tech Stack & Tools
 
 ![](https://img.shields.io/badge/💻_Languages:-grey?style=flat)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
@@ -40,7 +40,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-`<br>`
+<br>
 ![](https://img.shields.io/badge/🧠_AI/ML:-grey?style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![MindSpore](https://img.shields.io/badge/MindSpore-FF6A00?style=flat&logo=huawei&logoColor=white)
@@ -48,7 +48,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-`<br>`
+<br>
 ![](https://img.shields.io/badge/🛠️_Tools:-grey?style=flat)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -73,7 +73,7 @@ class Monai:
 
 <hr>
 
-## `<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" />` &nbsp; GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> &nbsp; GitHub Stats
 
 <div align="center">
 
@@ -96,7 +96,7 @@ class Monai:
 
 <hr>
 
-## `<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" />` &nbsp; Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" /> &nbsp; Featured Projects
 
 <div align="center">
 
@@ -107,7 +107,7 @@ class Monai:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dehudewf&repo=LLM-Prompt-Recovery-Project&theme=radical&hide_border=true" width="49%"/>
 </a>
 
-`<br><br>`
+<br><br>
 
 <a href="https://github.com/dehudewf/Suzhou-Bailuyuan-Pavilion-based-on-openGL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dehudewf&repo=Suzhou-Bailuyuan-Pavilion-based-on-openGL&theme=radical&hide_border=true" width="49%"/>
