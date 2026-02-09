@@ -10,7 +10,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dehudewf&style=flat&color=orange&label=PROFILE+VIEWS)
+[![Profile Views](https://komarev.com/ghpvc/?username=dehudewf&style=flat&color=orange&label=PROFILE+VIEWS)](https://github.com/dehudewf)
 [![GitHub followers](https://img.shields.io/github/followers/dehudewf?style=social)](https://github.com/dehudewf?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/dehudewf?style=social)](https://github.com/dehudewf?tab=repositories)
 
@@ -37,31 +37,31 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> &nbsp; Tech Stack & Tools
 
 ![](https://img.shields.io/badge/💻_Languages:-grey?style=flat)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 <br>
 ![](https://img.shields.io/badge/🧠_AI/ML:-grey?style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![MindSpore](https://img.shields.io/badge/MindSpore-FF6A00?style=flat&logo=huawei&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![MindSpore](https://img.shields.io/badge/MindSpore-FF6A00?style=flat&logo=huawei&logoColor=white)](https://www.mindspore.cn/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 <br>
 ![](https://img.shields.io/badge/🛠️_Tools:-grey?style=flat)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)](https://cursor.sh/)
+[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)](https://neovim.io/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/dehudewf)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ```python
 class Monai:
@@ -115,10 +115,10 @@ class Monai:
 
 | 🚀 Project | 📝 Description | 🛠️ Tech |
 |:--|:--|:--|
-| [🧬 Kaggle BYU - Bacterial Flagellar Motors](https://github.com/dehudewf/kaggle-2025BYU-Locating-Bacterial-Flagellar-Motors) | Kaggle 竞赛：定位细菌鞭毛马达 | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=darkgreen) |
-| [🤖 LLM Prompt Recovery](https://github.com/dehudewf/LLM-Prompt-Recovery-Project) | LLM 提示词恢复项目 | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=darkgreen) |
-| [🏛️ Suzhou Pavilion - OpenGL](https://github.com/dehudewf/Suzhou-Bailuyuan-Pavilion-based-on-openGL) | 基于 OpenGL 的苏州白鹭园亭 3D 建模 | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white) |
-| [🎬 Movie Data Analysis](https://github.com/dehudewf/movie-data-analysis) | 电影数据分析与可视化 | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) |
+| [🧬 Kaggle BYU - Bacterial Flagellar Motors](https://github.com/dehudewf/kaggle-2025BYU-Locating-Bacterial-Flagellar-Motors) | Kaggle 竞赛：定位细菌鞭毛马达 | [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/) [![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)](https://www.python.org/) |
+| [🤖 LLM Prompt Recovery](https://github.com/dehudewf/LLM-Prompt-Recovery-Project) | LLM 提示词恢复项目 | [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/) [![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)](https://www.python.org/) |
+| [🏛️ Suzhou Pavilion - OpenGL](https://github.com/dehudewf/Suzhou-Bailuyuan-Pavilion-based-on-openGL) | 基于 OpenGL 的苏州白鹭园亭 3D 建模 | [![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)](https://www.opengl.org/) |
+| [🎬 Movie Data Analysis](https://github.com/dehudewf/movie-data-analysis) | 电影数据分析与可视化 | [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/) [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) |
 
 </div>
 
