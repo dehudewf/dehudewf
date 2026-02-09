@@ -1,13 +1,18 @@
 <div align="center">
 
-<!-- 打字机动画 - 使用 herokuapp 不走 vercel -->
+<!-- 头部波浪横幅 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20Monai's%20World&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Deep%20Learning%20%7C%20Code&descAlignY=55&descSize=18" width="100%"/>
+
+<br>
+
+<!-- 打字机动画 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=650&height=70&lines=Hey+%F0%9F%91%8B+I'm+Monai;AI+%26+Deep+Learning+Enthusiast;Kaggle+Competitor;C%2B%2B+%7C+Python+%7C+TypeScript+Dev;Building+the+Future+with+Code" alt="Typing SVG" />
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dehudewf&style=flat&color=orange&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/dehudewf?style=social)
-![GitHub stars](https://img.shields.io/github/stars/dehudewf?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/dehudewf?style=social)](https://github.com/dehudewf?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/dehudewf?style=social)](https://github.com/dehudewf?tab=repositories)
 
 </div>
 
@@ -93,12 +98,12 @@ class Monai:
 
 <br>
 
-<!-- GitHub 原生 stats 徽章 — shields.io 国内可访问，点击可跳转 -->
-<a href="https://github.com/dehudewf?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=ff69b4&label=Total%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dehudewf&style=for-the-badge&logo=github" alt="Stars"/></a>
+<!-- GitHub 原生 stats 徽章 — 用纯 Markdown 链接语法确保可点击 -->
+[![Total Stars](https://img.shields.io/badge/dynamic/json?color=ff69b4&label=Total%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dehudewf&style=for-the-badge&logo=github)](https://github.com/dehudewf?tab=repositories)
 &nbsp;
-<a href="https://github.com/dehudewf?tab=followers"><img src="https://img.shields.io/github/followers/dehudewf?style=for-the-badge&logo=github&color=blueviolet" alt="Followers"/></a>
+[![Followers](https://img.shields.io/github/followers/dehudewf?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/dehudewf?tab=followers)
 &nbsp;
-<a href="https://github.com/dehudewf?tab=repositories"><img src="https://img.shields.io/badge/Total%20Repos-16-blue?style=for-the-badge&logo=github" alt="Repos"/></a>
+[![Repos](https://img.shields.io/badge/Total%20Repos-16-blue?style=for-the-badge&logo=github)](https://github.com/dehudewf?tab=repositories)
 
 </div>
 
