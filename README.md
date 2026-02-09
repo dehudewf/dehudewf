@@ -27,8 +27,15 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" /> &nbsp; I'm currently working on **Kaggle Competitions** & **AI Research**
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **Deep Learning Frameworks** — PyTorch & MindSpore
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **AI, C++, Kaggle, or anything tech**
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach me at: **[GitHub Discussions](https://github.com/dehudewf)**
 - &nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: **Neural networks were inspired by the biological brain, yet nobody fully understands either** 🧠
+
+#### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me around the web:
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/linkxx)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:494657111@qq.com)
+<!-- 注册后取消注释并填入你的链接 -->
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/你的用户名) -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/你的用户名) -->
 
 <br>
 
