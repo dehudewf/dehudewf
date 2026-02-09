@@ -1,14 +1,13 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20Monai's%20World&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Deep%20Learning%20%7C%20Code&descAlignY=55&descSize=18" width="100%"/> <br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Monai;AI+%26+Deep+Learning+Enthusiast;Kaggle+Competitor;C%2B%2B+%7C+Python+%7C+TypeScript+Dev;Building+the+Future+with+Code" alt="Typing SVG" />
+<!-- 打字机动画 - 使用 herokuapp 不走 vercel -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=650&height=70&lines=Hey+%F0%9F%91%8B+I'm+Monai;AI+%26+Deep+Learning+Enthusiast;Kaggle+Competitor;C%2B%2B+%7C+Python+%7C+TypeScript+Dev;Building+the+Future+with+Code" alt="Typing SVG" />
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dehudewf&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdehudewf&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 ![GitHub followers](https://img.shields.io/github/followers/dehudewf?style=social)
+![GitHub stars](https://img.shields.io/github/stars/dehudewf?style=social)
 
 </div>
 
@@ -75,22 +74,31 @@ class Monai:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> &nbsp; GitHub Stats
 
+<!-- GitHub Stats & Streak: 用 GitHub Action 生成静态 SVG 存到自己仓库，不依赖 vercel -->
+<!-- 配置 Action 后取消下面的注释 -->
+<!--
+<div align="center">
+<img src="https://raw.githubusercontent.com/dehudewf/dehudewf/main/profile-summary-card-output/radical/0-profile-details.svg" width="70%" />
+<br>
+<img src="https://raw.githubusercontent.com/dehudewf/dehudewf/main/profile-summary-card-output/radical/3-stats.svg" width="32%" />
+<img src="https://raw.githubusercontent.com/dehudewf/dehudewf/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="32%" />
+<img src="https://raw.githubusercontent.com/dehudewf/dehudewf/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="32%" />
+</div>
+-->
+
 <div align="center">
 
-<a href="https://github.com/dehudewf">
-  <img src="https://github-readme-stats.vercel.app/api?username=dehudewf&show_icons=true&count_private=true&theme=radical&hide_border=true&line_height=27" width="49%" alt="Monai's GitHub Stats"/>
-</a>
-<a href="https://github.com/dehudewf">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dehudewf&theme=radical&hide_border=true&layout=compact&langs_count=8" width="41%" alt="Top Languages"/>
-</a>
+<!-- 使用 github-readme-streak-stats 的非 vercel 镜像 -->
+<img src="https://streak-stats.demolab.com/?user=dehudewf&theme=radical&hide_border=true" width="60%" alt="GitHub Streak"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dehudewf&theme=radical&hide_border=true" width="60%" alt="GitHub Streak"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dehudewf&theme=redical&hide_border=true&area=true" width="90%" alt="Activity Graph"/>
+<!-- GitHub 原生 stats 徽章 — shields.io 国内可访问 -->
+<img src="https://img.shields.io/badge/dynamic/json?color=ff69b4&label=Total%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dehudewf&style=for-the-badge&logo=github" alt="Stars"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/dehudewf?style=for-the-badge&logo=github&color=blueviolet" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Total%20Repos-16-blue?style=for-the-badge&logo=github" alt="Repos"/>
 
 </div>
 
@@ -100,31 +108,12 @@ class Monai:
 
 <div align="center">
 
-<a href="https://github.com/dehudewf/kaggle-2025BYU-Locating-Bacterial-Flagellar-Motors">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dehudewf&repo=kaggle-2025BYU-Locating-Bacterial-Flagellar-Motors&theme=radical&hide_border=true" width="49%"/>
-</a>
-<a href="https://github.com/dehudewf/LLM-Prompt-Recovery-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dehudewf&repo=LLM-Prompt-Recovery-Project&theme=radical&hide_border=true" width="49%"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/dehudewf/Suzhou-Bailuyuan-Pavilion-based-on-openGL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dehudewf&repo=Suzhou-Bailuyuan-Pavilion-based-on-openGL&theme=radical&hide_border=true" width="49%"/>
-</a>
-<a href="https://github.com/dehudewf/movie-data-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dehudewf&repo=movie-data-analysis&theme=radical&hide_border=true" width="49%"/>
-</a>
-
-</div>
-
-<hr>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Trophy.png" alt="Trophy" width="30" /> &nbsp; GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dehudewf&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
+| 🚀 Project | 📝 Description | 🛠️ Tech |
+|:--|:--|:--|
+| [🧬 Kaggle BYU - Bacterial Flagellar Motors](https://github.com/dehudewf/kaggle-2025BYU-Locating-Bacterial-Flagellar-Motors) | Kaggle 竞赛：定位细菌鞭毛马达 | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=darkgreen) |
+| [🤖 LLM Prompt Recovery](https://github.com/dehudewf/LLM-Prompt-Recovery-Project) | LLM 提示词恢复项目 | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=darkgreen) |
+| [🏛️ Suzhou Pavilion - OpenGL](https://github.com/dehudewf/Suzhou-Bailuyuan-Pavilion-based-on-openGL) | 基于 OpenGL 的苏州白鹭园亭 3D 建模 | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white) |
+| [🎬 Movie Data Analysis](https://github.com/dehudewf/movie-data-analysis) | 电影数据分析与可视化 | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) |
 
 </div>
 
@@ -164,16 +153,6 @@ class Monai:
 
 <hr>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Quote" width="30" /> &nbsp; Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="70%"/>
-
-</div>
-
-<hr>
-
 <!-- 
 =============================================
 📌 SOCIAL LINKS - 注册后取消下面的注释并填入你的链接
@@ -192,15 +171,18 @@ class Monai:
 
 ### Thanks for visiting! Drop a ⭐ if you like my work!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
+![](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+![](https://img.shields.io/badge/Powered%20by-AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 ---
 
 <details>
-<summary>⚙️ <b>贪吃蛇 GitHub Action 配置说明（点击展开）</b></summary>
+<summary>⚙️ <b>GitHub Actions 配置说明（点击展开）</b></summary>
 <br>
+
+### 1. 贪吃蛇动画
 
 在你的 `dehudewf/dehudewf` 仓库中创建 `.github/workflows/snake.yml`：
 
@@ -209,7 +191,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # 每12小时运行一次
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -230,6 +212,31 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-创建后手动触发一次 Action，贪吃蛇就会自动生成。
+### 2. Profile Summary Cards（可选，替代被墙的 github-readme-stats）
+
+创建 `.github/workflows/profile-summary.yml`：
+
+```yaml
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: dehudewf
+          BRANCH_NAME: main
+          THEME: radical
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Action 运行后会在仓库生成 `profile-summary-card-output/radical/` 目录下的 SVG 文件，然后取消 README 中 GitHub Stats 部分的注释即可。
 
 </details>
