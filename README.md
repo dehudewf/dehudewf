@@ -93,12 +93,12 @@ class Monai:
 
 <br>
 
-<!-- GitHub 原生 stats 徽章 — shields.io 国内可访问 -->
-<img src="https://img.shields.io/badge/dynamic/json?color=ff69b4&label=Total%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dehudewf&style=for-the-badge&logo=github" alt="Stars"/>
+<!-- GitHub 原生 stats 徽章 — shields.io 国内可访问，点击可跳转 -->
+<a href="https://github.com/dehudewf?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=ff69b4&label=Total%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dehudewf&style=for-the-badge&logo=github" alt="Stars"/></a>
 &nbsp;
-<img src="https://img.shields.io/github/followers/dehudewf?style=for-the-badge&logo=github&color=blueviolet" alt="Followers"/>
+<a href="https://github.com/dehudewf?tab=followers"><img src="https://img.shields.io/github/followers/dehudewf?style=for-the-badge&logo=github&color=blueviolet" alt="Followers"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Total%20Repos-16-blue?style=for-the-badge&logo=github" alt="Repos"/>
+<a href="https://github.com/dehudewf?tab=repositories"><img src="https://img.shields.io/badge/Total%20Repos-16-blue?style=for-the-badge&logo=github" alt="Repos"/></a>
 
 </div>
 
@@ -175,4 +175,3 @@ class Monai:
 ![](https://img.shields.io/badge/Powered%20by-AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
-
