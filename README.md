@@ -186,11 +186,10 @@ class Monai:
 =============================================
 📌 SOCIAL LINKS - 注册后取消下面的注释并填入你的链接
 =============================================
+ 🔗 Connect with Me
 
-## 🔗 Connect with Me
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/你的Twitter用户名)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/你的LinkedIn用户名)
+[[X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/daylonpaga33004)
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/你的LinkedIn用户名)
 
 -->
 
