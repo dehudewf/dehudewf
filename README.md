@@ -23,8 +23,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> &nbsp; About Me
 
 > 🧠 Passionate about **LLM Inference Optimization / Computer Vision / AI Systems**
-
 - 🎓 &nbsp; CS Undergrad → **HK MSc in AI** (2026)
+- My tech blog http://dehudewf.github.io/ai-tech-blog
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" /> &nbsp; Working on **LLM inference optimization** — **vLLM / KsanaLLM / CUDA**
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Research in **Multimodal medical image fusion** & **object detection** (YOLOv10, GCN, Mamba)
 - 🥉 &nbsp; **Kaggle Medalist** — BYU Bacterial Flagellar Motors (top 9%, Bronze)
